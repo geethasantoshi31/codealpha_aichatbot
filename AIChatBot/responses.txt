@@ -1,0 +1,8 @@
+hello=Hi there!
+how are you=I am doing great!
+what is java=Java is a programming language.
+who are you=I am an AI chatbot.
+bye=Goodbye!
+what is python=Python is an easy programming language.
+what is ai=AI means Artificial Intelligence.
+what is machine learning=Machine learning allows computers to learn from data.
